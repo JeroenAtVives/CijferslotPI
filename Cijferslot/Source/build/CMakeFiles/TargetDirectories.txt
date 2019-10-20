@@ -1,0 +1,3 @@
+/home/pi/PJ_RPI/Examples/Cijferslot/Source/build/CMakeFiles/rebuild_cache.dir
+/home/pi/PJ_RPI/Examples/Cijferslot/Source/build/CMakeFiles/Cijferslot.dir
+/home/pi/PJ_RPI/Examples/Cijferslot/Source/build/CMakeFiles/edit_cache.dir
